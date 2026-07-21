@@ -1,0 +1,6 @@
+{
+  "name": "CodeLens AI",
+  "description": "An AI-powered compiler error decoder and code optimizer that helps beginners understand errors, learn optimal coding patterns, and compare algorithmic approaches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

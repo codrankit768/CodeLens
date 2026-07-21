@@ -23,7 +23,7 @@ CodeLens AI is an AI-powered code analysis tool that helps developers identify i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/codrankit768/CodeLens-AI.git
+   https://github.com/codrankit768/CodeLens
    ```
 
 2. Navigate to the project directory:
